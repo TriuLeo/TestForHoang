@@ -6,6 +6,8 @@
 
 using namespace std;
 
+//con cho LMT
+
 struct Node
 {
     string label;
